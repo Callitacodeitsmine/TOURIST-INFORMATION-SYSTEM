@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>TOURIST INFORMATION SYSTEM</title>
+</head>
+<body>
+    <header>
+        <h1>TOURIST INFORMATION SYSTEM</h1>
+        <button onclick="showCart()">Cart</button>
+        <i class="fa fa-shopping-cart"></i>
+
+    </header>
+
+    <section id="products"></section>
+
+    <div id="cart" class="cart-container">
+        <button onclick="hideCart()">Close</button>
+        <h2>Your Cart</h2>
+        <ul id="cart-items"></ul>
+        <button onclick="checkout()">Proceed to Checkout</button>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

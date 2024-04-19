@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bangkok, Thailand",
+        "description": "Often topping lists of the world's most visited cities, Bangkok is famed for its vibrant street life, cultural landmarks, and bustling markets",
+        "price": 500,
+        "image": "images/1.png"
+    },
+    {
+        "name": "Paris, France",
+        "description": "Known as the City of Love, Paris is perennially popular for its world-class art, cuisine, and landmarks like the Eiffel Tower and the Louvre Museum",
+        "price": 500,
+        "image": "images/2.png"        
+    },
+    {
+        "name": "London, England",
+        "description": " With attractions like the British Museum, the London Eye, and Buckingham Palace, London consistently draws millions of tourists each year",
+        "price": 500,
+        "image": "images/3.png"
+    },
+    {
+        "name": "Dubai, UAE",
+        "description": "Known for its futuristic architecture, luxury shopping, and vibrant nightlife, Dubai is a hub for international tourists",
+        "price": 500,
+        "image": "images/4.png"
+    },
+    {
+        "name": "Singapore",
+        "description": "This city-state attracts visitors with its clean streets, gardens, and a blend of Malay, Chinese, and Indian cultural influences",
+        "price": 500,
+        "image": "images/5.png"
+    },
+    {
+        "name": "New York City, USA",
+        "description": "Home to iconic sites such as Times Square, Central Park, and the Statue of Liberty, NYC is a top destination for global travelers",
+        "price": 500,
+        "image": "images/6.png"
+    },
+    {
+        "name": "Kuala Lumpur, Malaysia",
+        "description": "The capital city of Malaysia is famous for its diverse culture, shopping districts, and landmarks like the Petronas Twin Towers",
+        "price": 500,
+        "image": "images/7.png"
+    },
+    {
+        "name": "Istanbul, Turkey",
+        "description": "Straddling Europe and Asia, Istanbul is rich in history and culture, with attractions like the Hagia Sophia and the Blue Mosque",
+        "price": 500,
+        "image": "images/8.png"
+    },
+    {
+        "name": "Tokyo, Japan",
+        "description": "Tokyo offers a unique blend of traditional and modern attractions, including temples, skyscrapers, and famously bustling crossings like Shibuya",
+        "price": 500,
+        "image": "images/9.png"
+    },
+    {
+        "name": "Antalya, Turkey",
+        "description": "Known for its stunning Mediterranean coastline, historic sites, and resorts, Antalya is a favorite among vacationers seeking sun and sea",
+        "price": 500,
+        "image": "images/10.png"
+    }
+]

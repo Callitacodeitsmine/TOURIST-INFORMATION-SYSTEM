@@ -1,0 +1,88 @@
+:root {
+    --primary-color: #4A90E2; /* Soft Blue */
+    --accent-color: hsl(37, 100%, 50%); /* Warm Orange */
+    --secondary-color: #00A8A8; /* Teal */
+    --neutral-background: #DDD1C7; /* Sandy Beige */
+    --text-color: #003459; /* Deep Blue */
+}
+
+
+body{
+    background-color: #4A90E2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#selected-products{
+    margin: 2em;
+}
+
+
+#payment-form{
+    display: flex;
+    flex-direction: column;
+    margin: 2em;
+}
+
+#payment-form input{
+    margin: 0.5em;
+    padding: 0.5em;
+    border-radius: 5px;
+    border: none;
+}
+
+#payment-form button{
+    background: #FF9F00;
+    color: #003459;
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 40px;
+    font-size: large;
+    margin: 0.5em;
+}
+
+#payment-form h1{
+    color: #FF9F00;
+    margin: 0.5em;
+}
+
+#payment-form h2{
+    color: #003459;
+    margin: 0.5em;
+}
+
+#payment-form h3{
+    color: #FF9F00;
+    margin: 0.5em;
+}
+
+#payment-form button:hover {
+    background: #00A8A8;
+}
+
+#payment-form label{
+    margin: 0.5em;
+    color: #FF9F00;
+}
+
+body h1{
+    color: #FF9F00;
+    margin: 0.5em;
+    text-align: center;
+}
+
+body p{
+    color: #FF9F00;
+    text-align: center;
+}
+#payment-form button:hover {
+    background: #00A8A8;
+}
+
+#payment-form label{
+    margin: 0.5em;
+    color: #FF9F00;
+}
